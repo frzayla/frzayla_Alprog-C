@@ -20,6 +20,8 @@ print("bilangan anda adalah", bil_bool)
 print("nilai dari bil_int", bil_bool)
 print(type(bil_bool))
 
+
+tugas
 #buatlah program dengan output sebagi berikut
 #masuka nama anda:
 #masukan umur anda:
@@ -28,12 +30,12 @@ print(type(bil_bool))
 #umur anda adalah (umur)
 #tipe data dari umur anda adalah (tipe dari umur)
 
-nama = input ("masukan nama anda ") 
+nama = input ("fariza ayla ") 
 print("nama saya adalah ", nama)
 print("nilai dari nama saya", nama)
 print(type(nama))
 
-bil_int = int(input("masukan umur anda"))
+bil_int = int(input("19"))
 print("umur anda adalah", bil_int)
 print("nilai dari umur", bil_int)
 print(type(bil_int))
